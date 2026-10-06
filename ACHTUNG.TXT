@@ -1,0 +1,65 @@
+===========================================================================
+Advanced engine needed  : Vanilla Compatible
+Primary purpose         : Singleplayer
+===========================================================================
+Title                   : Achtung
+Filename                : ACHTUNG.WAD
+Release date            : March 8th 2026
+Author                  : Arch
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Too many to name.
+Description             : This is a small, basic ~10 minute Singleplayer Map
+                          for "WAD-Mania One". Obviously, I went for a 90s
+                          look with this one, like a mix of DOOM IIs early
+                          levels mixed with some early 90s charm. This map
+                          messes around with teleport triggers a lot; I
+                          always wanted to throw some teleport traps in my
+                          WADs. Anyway, there aren't many differences in
+                          the difficulty settings besides the ammo pickups
+                          doubling on Nightmare and "I'm too young to die".
+                          there's tons of ammo scattered around (mostly
+                          from dead guys) but not much health besides some
+                          powerups. You probably won't have a challenge
+                          playing through this besides the ending, I won't
+                          spoil it, but lets just say there's a few lads
+                          waiting for ya… Have fun!
+                          -Arch
+                                                  
+Additional Credits to   : https://www.doomworld.com/forum/topic/156385/
+                          (The Thread)
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No.
+Music                   : No.
+Graphics                : A Sky texture, that's about it.
+Dehacked/BEX Patch      : No.
+Demos                   : No.
+Other                   : No.
+Other files required    : DOOM2.WAD
+
+
+* Play Information *
+
+Game                    : DOOM II
+Map #                   : MAP01
+Single Player           : Yes.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : No.
+Other game styles       : No.
+Difficulty Settings     : No. Just play on Ultra Violence or Hurt Me Plenty.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch.
+Build Time              : ~3 Hours
+Editor(s) used          : Ultimate Doom Builder & Slade!
+Known Bugs              : None.
+May Not Run With        : Not DOOM?
+Tested With             : Vanilla DOOM & DSDA-Doom
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.
