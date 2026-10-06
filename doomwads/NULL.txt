@@ -1,0 +1,67 @@
+===========================================================================
+Advanced engine needed  : Vanilla Compatible.
+Primary purpose         : DEATHMATCH!
+===========================================================================
+Title                   : NULL
+Filename                : NULL.WAD
+Release date            : May 20th 2026.
+Author                  : Arch.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : There's like 20 of 'em.
+Description             : How are we doing, everybody? I'm back with yet
+                          another deathmatch map. This is a 2-4 Player
+                          map with 8 player starts (For randomized spawns)
+                          with all weapons available; majority of which are
+                          Rocket Launchers, Super Shotguns and Chainguns.
+                          With 1 BFG9000 and Plasma Rifle laying around in
+                          some places. ;)
+
+                          This map takes place on a military space-base
+                          on some mysterious planet, in some different
+                          galaxy, far, far away...
+
+                          Have fun.
+                                                  
+Additional Credits to   : Midi Music used: 
+                          bitmidi.com/nine-inch-nails-dead-souls-mid
+                          (Midi version of "Dead Souls" by Nine Inch Nails
+                          and The Crows Soundtrack)
+
+                          Oh and some dude named Emmanuel, I have no clue
+                          why, he's just cool like that.
+===========================================================================
+* What is included *
+
+New levels              : Yes, 1.
+Sounds                  : No.
+Music                   : Yep.
+Graphics                : No.
+Dehacked/BEX Patch      : No.
+Demos                   : No.
+Other                   : No.
+Other files required    : No.
+
+
+* Play Information *
+
+Game                    : DOOM2.WAD
+Map #                   : MAP01
+Single Player           : If you want to explore the map first, go for it.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : HELL YES!
+Other game styles       : No.
+Difficulty Settings     : No.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch.
+Build Time              : 2 Hours.
+Editor(s) used          : Ultimate Doom Builder, Slade3, ENDEDIT.
+Known Bugs              : None.
+May Not Run With        : Anything that isn't Doom.
+Tested With             : DSDA-Doom & Zandronum.
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.

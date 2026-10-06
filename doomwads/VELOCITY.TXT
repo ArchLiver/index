@@ -1,0 +1,67 @@
+===========================================================================
+Advanced engine needed  : None, You can play in any port, including
+                          Vanilla DOOM!
+
+Primary purpose         : Deathmatch.
+===========================================================================
+Title                   : Velocity!
+Filename                : VELOCITY.WAD
+Release date            : 19th October 2025
+Author                  : Arch
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Check my Doomworld Profile.
+                          Link: doomworld.com/profile/50098-arch/
+
+Description             : Stayed up all night making this Deathmatch map so
+                          I hope you all enjoy it. This Deathmatch map is of
+                          Small to Medium sized and takes place on a UAC
+                          Base in the middle of space. Plenty of Health, 
+                          Ammo, Weapons and Powerups for you to use and run
+                          Around With. This map is made for 8 players at the
+                          max. No more then 8, 2 is the minimum obviously.
+                          
+
+Additional Credits to   : Midi Version of "Laichzeit" By Rammstein
+                          https://bitmidi.com/rammstein-laichzeit_v1-mid
+===========================================================================
+* What is included *
+
+New levels              : 1
+
+Sounds                  : No.
+Music                   : Yes.
+Graphics                : No.
+Dehacked/BEX Patch      : No.
+Demos                   : No.
+Other                   : Menu Stuff.
+Other files required    : Nope.
+
+
+* Play Information *
+
+Game                    : DOOM 2
+Map #                   : MAP01
+Single Player           : Sure, if you want to learn the map first then yeah!
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : Yes.
+Other game styles       : Nope.
+Difficulty Settings     : Nope.
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 5~ Hours.
+Editor(s) used          : Ultimate DOOM Builder, Slade & Paint.net for the
+                          Menu background.
+Known Bugs              : Nope. Midi might not work in DOSBox, read below.
+May Not Run With        : Runs with everything but DOSBox seems to have an
+                          Issue on my end where it wont play the midi file.
+                          As I said it might just be my end.
+Tested With             : Vanilla, Chocolate & Crispy DOOM.
+
+* Copyright / Permissions *
+YOU MAY NOT USE THIS WAD AS A BASE TO BUILD OTHER LEVELS.
+
+* Where to get the file that this text file describes *
+archliver.github.io/index

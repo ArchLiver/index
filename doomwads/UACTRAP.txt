@@ -1,0 +1,58 @@
+
+===========================================================================
+Title                   : Trapped in the UAC!
+Filename                : UACTRAP.WAD
+Release date            : September 29th 2025
+Author                  : Arch.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Check my DOOMWORLD account and the same place you 
+                          got this WAD from!
+Misc. Author Info       : I like fruit 
+Description             : 5-10 minute long UAC Tech-base style level with
+                          lots of monster closets But overall not too
+                          challenging though. Plenty of health, weapons and
+                          ammo and overall fights that aren't too bad even
+                          on UV. 
+
+
+Additional Credits to   : Nobody Else
+===========================================================================
+* What is included *
+
+New levels              : 1 
+Sounds                  : No
+Music                   : E1M3 from DOOM 1
+Graphics                : No, if menu stuff counts then yes.
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : DOOM2.WAD
+
+
+* Play Information *
+
+Game                    : Doom II
+Map #                   : Map01
+Single Player           : Yep.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No.
+Other game styles       : None
+Difficulty Settings     : Yep.
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : About 12 hours across 2 weeks.
+Editor(s) used          : Ultimate Doom Builder and Slade.
+Known Bugs              : No, and they're shouldn't be.
+May Not Run With        : Read below.
+Tested With             : Vanilla DOOM (DOSBox), Chocolate DOOM, Crispy DOOM 
+                          and GZDoom.
+
+
+YOU MAY NOT USE THIS WAD AS A BASE TO BUILD OTHER WAD'S
+
+
+
+

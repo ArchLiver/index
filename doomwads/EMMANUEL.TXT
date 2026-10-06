@@ -1,0 +1,91 @@
+===========================================================================
+Advanced engine needed  : Vanilla Compatible. May need UDOOM32/DOOM32.
+                          I didn't need it however.
+Primary purpose         : Singleplayer, Co-op & Deathmatch!
+===========================================================================
+Title                   : Emmanuel's Whacky Weekend!
+Filename                : EMMANUEL.WAD
+Release date            : August 9th 2026
+Author                  : ArchLiver
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Too many.
+Description             : Recently, I've been playing a lot more
+                          multiplayer with a mate, so, I thought I'd put
+                          together a new episode for Doom that had Co-op
+                          in mind. I've never included Co-op support in 
+                          my WADs before, so I definitely did a lot more
+                          thinking when it came to making these maps. 
+
+                          All of these maps take inspiration from episode
+                          1 & 2 of Doom. If you're playing Singleplayer,
+                          I must warn you that Ultra Violence can be an
+                          absolute pain. As I said before, Co-Op and
+                          Deathmatch are supported  - so I recommend
+                          getting a buddy if you can! 
+
+                          This Episode takes around 30-45~ minutes to
+                          complete, E1M1 - E1M8 are included only, so no
+                          secret level. Each map took about a day to
+                          make so I guess these count as speed-maps.
+
+                          If you happen to find any bugs, let me know
+                          immediately. Feedback is highly appreciated too!
+                         
+                                                  
+Additional Credits to   : My mate (who this WAD is named after), all the 
+                          Midis used in this WAD where composed by Jim's
+                          Music Dungeon, I'll link his Patreon and Youtube
+                          below along with the songs used.
+
+                          https://www.youtube.com/@JimsMusicDungeon
+                          https://www.patreon.com/jimmusicdungeon
+                          
+                          Rammstein - Deutschland (E1M1)
+                          Slipknot - Duality (E1M2)
+                          Rammstein - Du Hast (E1M3)
+                          Nine Inch Nails - Terrible Lie (E1M4)
+                          Marilyn Manson - Lunchbox (E1M5)
+                          Rob Zombie - Living Dead Girl (E1M6)
+                          Chemlab  - Electric Molecular (E1M7)
+                          Limp Bizkit - Break Stuff (E1M8)
+                          Type O Negative - Love You To Death (Intermission
+                          & Victory)
+                          
+===========================================================================
+* What is included *
+
+New levels              : 8
+Sounds                  : No.
+Music                   : Yes, credits are included above.
+Graphics                : No.
+Dehacked/BEX Patch      : No.
+Demos                   : Yes.
+Other                   : Menu graphics.
+Other files required    : DOOM.WAD, Shareware is not supported.
+
+
+* Play Information *
+
+Game                    : The Ultimate DOOM
+Map #                   : E1M1 - E1M8 (No E1M9)
+Single Player           : Yes!
+Cooperative 2-4 Player  : Yes!
+Deathmatch 2-4 Player   : Yes!
+Other game styles       : No.
+Difficulty Settings     : Yes, beware of Ultra Violence though.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch. 
+Build Time              : 9 Days.
+Editor(s) used          : Ultimate Doom Builder, Slade3, Doomword.
+Known Bugs              : E1M4 doesn't work with Chocolate Doom for
+                          some reason.
+May Not Run With        : Chocolate Doom
+Tested With             : DOS Exceutables, Chocolate Doom, DSDA-Doom & 
+                          Zandronum.
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.

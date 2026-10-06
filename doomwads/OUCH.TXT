@@ -1,0 +1,56 @@
+===========================================================================
+Advanced engine needed  : Vanilla Compatible.
+Primary purpose         : Deathmatch!
+===========================================================================
+Title                   : Ouch!
+Filename                : OUCH.WAD
+Release date            : July 23rd 2026
+Author                  : Olly.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : I'll have a new website soon where you can check
+                          'em out.
+Description             : This is a small deathmatch map I made in about an
+                          hour for me and a friend to play on. This map
+                          includes: All Weapons, A Soulsphere, some Medkits
+                          and Stimpacks, Ammo and 1 Green Armor. This map
+                          includes a lot of verticality so keep that in
+                          mind. Overall though, this map isn't too hard to
+                          get the hang of, Have fun!
+                                                  
+Additional Credits to   : Emmanuel, Mehdi, EBoy, leavenow.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No.
+Music                   : No.
+Graphics                : No.
+Dehacked/BEX Patch      : No.
+Demos                   : No.
+Other                   : No.
+Other files required    : DOOM.WAD
+
+
+* Play Information *
+
+Game                    : DOOM / The Ultimate DOOM
+Map #                   : E1M1
+Single Player           : If you want to explore the map first.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : Yes!
+Other game styles       : No.
+Difficulty Settings     : No, its deathmatch.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch
+Build Time              : About an hour.
+Editor(s) used          : Ultimate Doom Builder & Slade.
+Known Bugs              : Nope, Let me know if you find any though.
+May Not Run With        : A Microwave.
+Tested With             : Original DOS Executables and DSDA-Doom.
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.

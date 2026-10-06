@@ -1,0 +1,65 @@
+===========================================================================
+Advanced engine needed  : Limit Removing.
+Primary purpose         : Singleplayer
+===========================================================================
+Title                   : Dead Gift!
+Filename                : DEADGIFT.WAD
+Release date            : December 22nd 2025
+Author                  : Arch
+Email Address           : Archdoomaddict@gmail.com
+Other Files By Author   : Check my about me on Doomworld.
+Description             : Christmas is right around the corner, last year
+                          I made a Christmas themed Doom Map where you save
+                          Christmas by clearing your hometown of all the
+                          demons taking over. 
+
+                          Now, you've made your way down to the north pole
+                          because now, The Cyberdemon is in charge. You're
+                          going to have to dance around with the big fella
+                          to save Christmas, again...
+                                                  
+Additional Credits to   : Resource  Pack: 
+doomworld.com/forum/topic/92010-christmas-doom-compilation-vanilla-compat/
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes.
+Music                   : Yes.
+Graphics                : Yes.
+Dehacked/BEX Patch      : Yes.
+Demos                   : No.
+Other                   : No.
+Other files required    : No.
+
+
+* Play Information *
+
+Game                    : Doom II
+Map #                   : Map01
+Single Player           : I'll let ya' figure that out. (The Answer's Yes)
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : No.
+Other game styles       : No.
+Difficulty Settings     : Yes.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch using Christmas Recourse
+                          Pack. (Credits in the description)
+Build Time              : 1 - 2 Weeks
+Editor(s) used          : UDB, Slade, WhackEd4 & Doomword.
+Known Bugs              : None that I know of, but if you do find one,
+                          email me or let me know in the thread itself.
+May Not Run With        : Vanilla or DOOM32 EXE's
+Tested With             : DSDA-Doom & Crispy DOOM
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.
+
+
+============================================================================
+
+Have a Merry Christmas! Enjoy!

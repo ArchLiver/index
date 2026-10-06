@@ -1,0 +1,52 @@
+===========================================================================
+Advanced engine needed  : Limit-Removing Port.
+Primary purpose         : Singleplayer.
+===========================================================================
+Title                   : RESTRICTED!
+Filename                : RESTRICT.WAD
+Release date            : March 27th 2026.
+Author                  : Arch.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Can't name them all.
+Description             : Here we go, another cool new Map I whipped up for
+                          WAD-Mania one. This map has to be the best map
+                          I've made, ever! 
+                                                  
+Additional Credits to   : Beans. 
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No.
+Music                   : Yes. E4M2 from The Ultimate DOOM.
+Graphics                : No.
+Dehacked/BEX Patch      : No.
+Demos                   : No.
+Other                   : No.
+Other files required    : DOOM2.WAD
+
+
+* Play Information *
+
+Game                    : DOOM II
+Map #                   : MAP01.
+Single Player           : Yes.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : No.
+Other game styles       : No.
+Difficulty Settings     : Yes, a bit tough though if you're playing on
+                          Ultra Violence.
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch.
+Build Time              : ~6 Days.
+Editor(s) used          : Ultimate DOOM Builder & Slade.
+Known Bugs              : None, but Email me if you find one though.
+May Not Run With        : Vanilla DOOM.
+Tested With             : DSDA=Doom & Crispy DOOM.
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.

@@ -1,0 +1,55 @@
+===========================================================================
+Title                   : REDUX!
+Filename                : REDUX.WAD
+Release date            : October 10th 2025
+Author                  : Arch.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Check my DOOMWORLD account and the same place you
+                          got this WAD from!
+Misc. Author Info       : Uhh, I like food.
+Description             : 10~ Minute Singleplayer Map that takes place in an 
+                          underground base. Every Weapon except for the BFG,
+                          which is in a cage for aesthetic purposes I guess.
+                          Plenty of monsters and health too.
+
+
+Additional Credits to   : Midi file - https://bitmidi.com/a-warm-place-mid
+===========================================================================
+* What is included *
+
+New levels              : 1 
+Sounds                  : No
+Music                   : Yes
+Graphics                : No, if menu stuff counts then yes.
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : DOOM2.WAD
+
+
+* Play Information *
+
+Game                    : Doom II
+Map #                   : Map01
+Single Player           : Yep, Ofc
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : No.
+Other game styles       : None
+Difficulty Settings     : Yeah, UV is hard as nails though, try HMP instead.
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : ~12 Hours across 2 weeks.
+Editor(s) used          : Ultimate Doom Builder and Slade.
+Known Bugs              : No, and they're shouldn't be.
+May Not Run With        : Vanilla/Chocolate DOOM.
+Tested With             : Crispy DOOM and GZDoom.
+
+
+YOU MAY NOT USE THIS WAD AS A BASE TO BUILD OTHER WAD'S
+
+
+
+

@@ -1,0 +1,75 @@
+===========================================================================
+Advanced engine needed  : Vanilla Compatible.
+Primary purpose         : Deathmatch.
+===========================================================================
+Title                   : Nihility
+Filename                : NIHILITY.WAD
+Release date            : July 30th 2026
+Author                  : Arch.
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Too lazy to name 'em all, a shit ton...
+Description             : This is a small, 2-4 player Deathmatch Map for
+                          DOOM II that takes place in the void itself. 
+                          The map has all weapons, but you will always end
+                          up with a Chaingun or Single-Barrel at spawn. 
+                          All of the other weapons like the Double-Barrel/
+                          Super Shotgun, The Plasma Gun, Rocket Launcher
+                          and even the BFG9000 can be found if you look
+                          hard enough, but the other weapons mentioned
+                          take quite the risk taking to acquire. You will
+                          always be close to death, even if its not from
+                          another person... Just be careful, ok?
+
+                          Other than that, there is 1 Green Armour, 1 Blue
+                          Armour, 1 Backpack, tons of Ammo and No health.
+                          OH, and there is also a radioactive suit if you
+                          stumble upon it ;). Have fun dudes!
+                                                  
+Additional Credits to   : Midi file - https://bitmidi.com/a-warm-place-mid
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes, very meaty sounds I'll say.
+Music                   : Yes.
+Graphics                : No, menu stuff though.
+Dehacked/BEX Patch      : No.
+Demos                   : No. 
+Other                   : No.
+Other files required    : DOOM2.WAD, Perhaps DOOM32.exe if you are playing
+                          the DOS version, but I personally ran into no
+                          issues.
+
+
+* Play Information *
+
+Game                    : DOOM II
+Map #                   : MAP01
+Single Player           : For Exploration and learning purposes.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : HELL YEAH!
+Other game styles       : No.
+Difficulty Settings     : No, this is deathmatch!
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch
+Build Time              : 2 Hours.
+Editor(s) used          : Ultimate DOOM Builder, Slade3, ENDEDIT
+Known Bugs              : The Scrolling textures in the DOS version
+                          and Chocolate DOOM aren't aligned for
+                          some weird reason. They aren't worth much
+                          though.
+May Not Run With        : Fortnite.
+Tested With             : Original DOS version (DOOM2.EXE), Chocolate
+                          DOOM, DSDA-DOOM and Crispy DOOM.
+
+
+
+* Copyright / Permissions *
+You may NOT use this file as a base to build additional levels.
+
+
+Have fun!

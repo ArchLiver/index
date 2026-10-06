@@ -1,0 +1,84 @@
+===========================================================================
+Advanced engine needed  : Limit Removing Port like Crispy DOOM.
+Primary purpose         : Singleplayer
+===========================================================================
+Title                   : VERLOREN!
+Filename                : VERLOREN.WAD
+Release date            : November 18th 2025
+Author                  : Arch
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Check my About Me on DOOMWORLD!
+Description             : I've always loved The Plutonia Experiment, its
+                          great difficulty jump compared to DOOM, DOOM II
+                          And TNT mixed with the fantastic level design by
+                          Milo & Dario Casali makes it my favourite of the
+                          Original 4 IWADs.
+
+                          So out of nowhere I decided, hey! Why not build
+                          a small 6-7 Level campaign for Plutonia with that
+                          Heavy, and I mean HEAVY inspiration from some of
+                          My favourite levels from The Plutonia Experiment!
+
+                          So about 2 weeks and 6 maps later I've finally
+                          finished "Verloren!". If you wondered why its
+                          called that its because Verloren is the German
+                          word for "Lost", I was shoving random words in
+                          a bunch of languages like; Greek, Italian, French
+                          German etc and out of nowhere "Verloren" just hit
+                          me. It felt like the perfect name. It sounds
+                          Plutonia like in my opinion.
+
+                          No real story to be honest, but I do want to add
+                          though, this WAD is TOUGH AS NAILS on Ultra
+                          Violence, But if you really want that extra
+                          challenge I HIGHLY recommend pistol starting
+                          every map. I did and I thought it was a blast!
+
+                          Each map takes about 10-20 Minutes to complete
+                          and don't have many secrets in them, so don't
+                          worry about wall-humping for some soulsphere.
+                          The secrets I did add aren't too hard to find.
+
+                          Have fun!
+Additional Credits to   : Dario & Milo Casali obviously because they made
+                          The Plutonia Experiment. Specifically MAP01,
+                          MAP02, MAP04, MAP05 and MAP16 were inspirations.
+===========================================================================
+* What is included *
+
+New levels              : 6
+Sounds                  : No.
+Music                   : No.
+Graphics                : No.
+Dehacked/BEX Patch      : Yep.
+Demos                   : No.
+Other                   : No.
+Other files required    : No.
+
+
+* Play Information *
+
+Game                    : PLUTONIA
+Map #                   : MAP01 - 06
+Single Player           : Yes.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : No.
+Other game styles       : No.
+Difficulty Settings     : Yep, Ultra Violence is as tough as nails
+                          though! Pistol Start at your own risk...
+                          
+
+
+* Construction *
+
+Base                    : Built from scratch
+Build Time              : 2 Weeks.
+Editor(s) used          : Ultimate Doom Builder, SLADE3, WhackEd4
+Known Bugs              : None that I know of. If you find one though
+                          let me know in the Forum Post or Email me!
+May Not Run With        : Chocolate / Vanilla DOOM, works in anything 
+                          else.
+Tested With             : Crispy DOOM & DSDA-Doom
+
+* Copyright / Permissions *
+YOU MAY NOT USE THIS WAD AS A BASE TO BUILD ADDITIONAL WAD'S.
