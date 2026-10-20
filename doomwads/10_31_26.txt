@@ -1,0 +1,86 @@
+===========================================================================
+Advanced engine needed  : Limit-Removing
+Primary purpose         : Single play
+===========================================================================
+Title                   : ArchLiver's Spooky Halloween Special!
+Filename                : 10_31_26.wad
+Release date            : October 21st 2026
+Author                  : ArchLiver
+Email Address           : archdoomaddict@gmail.com
+Other Files By Author   : Too many to count. Check my website if you know the
+                          URL to it.
+Misc. Author Info       : Spookiest Doom-Mapper.
+
+Description             : This is a singular-map for DOOM II that as the
+                          title implies: is Halloween Themed. This map takes
+                          around 5-10 minutes to complete and is meant to be
+                          a challenge, so, I'd recommend playing on lower
+                          difficulties if scarce health pickups and high
+                          enemy counts isn't your cup of tea. All weapons
+                          except the BFG9000 & Chainsaw are included, I've
+                          also included a new sky and my very own
+                          jack-o-lantern sprites as a replacement for the
+                          evil-eyes. This WAD was meant to be released on
+                          Halloween, but I probably won't have my computer by
+                          then as I have to send it away to get fixed real
+                          soon, so I've chosen to release this map 10 days
+                          early. Due to me being in extreme crunch-mode
+                          trying to rush this map out of the door, a lot of
+                          what I had in mind has been scrapped, so I
+                          apologise for that. I've included a bunch of graves
+                          for you to rob for ammo too, have fun!
+
+Additional Credits to   : 3D-Realms I suppose, since I used the buildings
+                          from Duke 3D's first sky texture for my own sky.
+                          R.I.P Levelord.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : Yes, Menu assets.
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Built from scratch.
+Build Time              : ~12 Hours over 2 weeks.
+Editor(s) used          : Ultimate Doom Builder, Slade3, DoomWord, WhackEd4
+Known Bugs              : Nope. Email me if you find any though!
+May Not Run With        : Vanilla Executables & Chocolate Doom.
+Tested With             : DSDA-Doom.
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You are free to copy and redistribute the material in any medium or format.
+If you do so, you must give appropriate credit, provide a link to the
+license, and indicate if changes were made. You may do so in any reasonable
+manner, but not in any way that suggests the licensor endorses you or your
+use. You may not use the material for commercial purposes. If you remix,
+transform, or build upon the material, you may not distribute the modified
+material.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
